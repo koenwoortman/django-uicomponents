@@ -1,0 +1,4 @@
+django>=2.2.20
+pytest==6.2.4
+pytest-cov==2.11.1
+pytest-django==4.2.0

@@ -1,0 +1,3 @@
+recursive-include django_uicomponents/templates *
+include LICENSE
+include README.md

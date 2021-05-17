@@ -1,0 +1,8 @@
+os: linux
+dist: xenial
+language: python
+cache: pip
+install:
+  - pip install -r requirements-dev.txt
+script:
+  - python3 runtests.py
